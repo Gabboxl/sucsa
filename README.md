@@ -1,3 +1,3 @@
 # sucsa
-sucsiamoci mooseca
+sucsiamoci sucsa da win
 
