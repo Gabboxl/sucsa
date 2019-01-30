@@ -1,3 +1,3 @@
 # sucsa
-sucsiamoci sucsa da win
+sucsiamoci sucsa da win krakentests
 
